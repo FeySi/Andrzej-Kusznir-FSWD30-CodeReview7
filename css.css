@@ -1,0 +1,127 @@
+.{
+	margin:auto;
+}
+header{
+	background-color: #832692;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	width: auto;
+	}
+.that{
+	color: red;
+}
+
+footer {
+	background-image: url(img/footer.png);
+	height: 100px
+	
+}
+
+footer h3{
+	text-align: center;
+	padding: 20px
+	
+}
+.icon1{
+width: 4%
+
+}
+.up{
+	background-image: url(img/bg2.jpg);
+	height: 400px;width: 100%;
+	float: left;
+}
+
+.up h1{
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	margin-top: 70px
+
+
+}
+.all{
+	border:2px
+}
+
+.row{
+	padding: 2%;
+}
+
+.bomb{
+	height: 100%;
+	width:  10%;
+	float: right;
+}
+
+#myPhoto1{
+	float: left;
+	height: 150px;
+	width: 150px;
+
+	margin-top: 15px
+}
+#myPhoto2{
+	float: left;
+	height: 150px;
+	width: 150px;
+	
+	margin-top: 15px
+}
+#myPhoto3{
+	float: left;
+	height: 150px;
+	width: 150px;
+	
+	margin-top: 15px
+}
+#myPhoto4{
+	float: left;
+	height: 150px;
+	width: 150px;
+	
+	margin-top: 15px
+}
+
+.nazwy{
+	margin-right: 30%;
+	margin-top: 20px
+}
+
+#color1{
+	background-color:#A0558E;
+	margin-top: 10px
+}
+
+
+
+button{
+	border-radius: 8px;
+	margin-left: 50%;
+	width: 20%;
+	margin-top: 40px
+}
+
+
+.okno{
+	background-color: #A66897;
+	width: 250px;
+	height: 260px;
+}
+
+.pic{
+	width: 50px;
+	margin-top: 120px;
+}
+
+.like{
+	width: 50px;
+}
+#okno1{
+	padding: 25px
+}
+
+#buttons1 ul{
+	font-size: 35px
+}
